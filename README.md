@@ -5,8 +5,8 @@ Shopping sections with React
 About
 
 
-A shopping sections made it with 
-React, with a responsive design.
+Shopping sections made in React, 
+with a responsive design.
 
 
 Technologies
